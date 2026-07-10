@@ -1,0 +1,18 @@
+=============================================
+          LOG ANALYSIS REPORT
+=============================================
+
+Generated On : 10-07-2026 01:49:31 PM
+
+Total Logs      : 10
+INFO Logs       : 5
+WARNING Logs    : 2
+ERROR Logs      : 3
+Invalid Logs    : 0
+
+=============================================
+ERROR DETAILS
+=============================================
+2026-07-07 09:08:20 - Database Connection Failed
+2026-07-07 09:15:55 - Invalid Password
+2026-07-07 09:25:50 - Server Timeout
